@@ -6,7 +6,6 @@ Year: <b>2023</b>
 
 This repository contains:
 * C programs
-* Lab record
 
 from Semester 3 of University.
 
