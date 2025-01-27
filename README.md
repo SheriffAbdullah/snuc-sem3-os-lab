@@ -1,6 +1,6 @@
 # snuc-sem3-os-lab
 
-Subject: <b>Operating Systems</b> <br>
+Subject: <b>Operating Systems Lab</b> <br>
 Semester: <b>3</b> <br>
 Year: <b>2023</b>
 
